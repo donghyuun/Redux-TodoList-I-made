@@ -1,0 +1,20 @@
+.wrapper{
+  font-family: 'Roboto', sans-serif;
+  display:flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  margin-top:5rem;
+}
+#subject a{
+  text-decoration: none;
+}
+
+#toc a{
+  text-decoration: none;
+}
+
+#control a{
+  text-decoration: none;
+}
